@@ -1,10 +1,11 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+Covfefe make
 
 ## What it does
 
-FEATURES PLACEHOLDER
+- Makes covfefe
+- Drinks covfefe
 
 ## Getting started
 
